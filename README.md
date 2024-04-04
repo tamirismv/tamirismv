@@ -56,6 +56,6 @@
 
 ###
 
-<h6 align="left">Read this page in English:</h6>
+<h6 align="left">Read this page in English: https://github.com/tamirismv/tamirismv-README-eng/blob/main/README.md</h6>
 
 ###
