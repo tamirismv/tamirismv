@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">Há um ano venho desenvolvendo minhas habilidades como analista de testes. Para isso, tenho focado meu desenvolvimento profissional fazendo cursos da área de qualidade de software e linguagens de programação, e atuando em projetos para realização de testes web manuais e automatizados. Alinhando os novos conhecimentos adquiridos à bagagem prévia de pesquisadora química, acredito ter ótimas skills como organização, atenção a detalhes, resolução de problemas e pensamento analítico para atuar como QA tester. Hoje minha maior motivação é obter experiência hands-on para realizar efetivamente minha transição de carreira para a área de tecnologia. ❤️💻</p>
+<p align="left">Analista de Testes e Qualidade de Software, com experiência em escrita e manutenção de planos de teste e casos de teste empregando metodologia ágil e ferramentas de gerenciamento de projetos (Jira), e em realização de testes manuais e automatizados Web (Selenium, Cucumber e Cypress) e testes de API (Postman e Restassured). 
+
+Alinhando os conhecimentos adquiridos da área de tecnologia à bagagem prévia e multidisciplinar de pesquisadora química, acredito ter ótimas skills como organização, atenção a detalhes, resolução de problemas e pensamento analítico para atuação como Analista de Qualidade de Software. ❤️💻 </p>
 
 ###
 
