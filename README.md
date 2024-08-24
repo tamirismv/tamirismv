@@ -1,38 +1,24 @@
-<h2 align="left">Olá! 👋</h2>
+<h1 align="left">Olá👋</h1>
 
 ###
 
-<p align="left">✨ Meu nome é Tamiris e eu sou uma analista de testes! ✨</p>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<h3 align="left">Sobre mim</h3>
+<p align="left">Olá! Sou Tamiris, uma profissional apaixonada por qualidade de software. Tenho experiência na criação e implementação de casos de teste, além de realizar testes manuais e automatizados em aplicações web e APIs. Minha trajetória inclui o uso de ferramentas de automação como Selenium e Cypress, e de testes de API com Postman e RestAssured.<br><br>Com conhecimentos em Java, Python e JavaScript, estou pronta para enfrentar desafios e contribuir para a entrega de produtos de alta qualidade. Busco um ambiente desafiador onde possa aplicar e expandir meus conhecimentos, sempre com o objetivo de garantir a excelência e eficiência dos produtos de software. Minha motivação vem da busca constante por melhorias e pela entrega de soluções que superem as expectativas.<br><br>Se você procura alguém dedicada e pronta para promover a qualidade, estou à disposição para explorar novas oportunidades e colaborar com equipes dinâmicas.<br><br>Vamos nos conectar! ❤️💻</p>
 
 ###
 
-<p align="left">Analista de Testes e Qualidade de Software, com experiência em escrita e manutenção de planos de teste e casos de teste empregando metodologia ágil e ferramentas de gerenciamento de projetos (Jira), e em realização de testes manuais e automatizados Web (Selenium, Cucumber e Cypress) e testes de API (Postman e Restassured). 
-
-Alinhando os conhecimentos adquiridos da área de tecnologia à bagagem prévia e multidisciplinar de pesquisadora química, acredito ter ótimas skills como organização, atenção a detalhes, resolução de problemas e pensamento analítico para atuação como Analista de Qualidade de Software. ❤️💻 </p>
+<h2 align="left">Habilidades</h2>
 
 ###
 
-<h3 align="left">Habilidades</h3>
+<p align="left">• Linguagens de Programação: Java, Python, JavaScript<br>• Automação de Testes: Selenium, Cypress, Cucumber<br>• Testes de API: Postman, RestAssured<br>• Performance Testing: JMeter<br>• Controle de Versão: GitHub<br>• Gestão de Projetos: Jira<br>• Metodologias Ágeis: Scrum, Kanban<br>• Ferramentas de desenvolvimento: Eclipse, Visual Studio Code (VS Code)<br>• Comunicação: Habilidade em comunicar resultados de testes e colaborar com equipes multifuncionais</p>
 
 ###
 
-<p align="left">Testes manuais e automatizados<br>Preparação e execução de planos e casos de testes<br>Documentação e avaliação de resultados<br>Reporte de bugs<br>Conhecimento de metodologias ágeis e outras ferramentas (BDD, Gherkin, Scrum, Kanban…) <br>Testes de API</p>
-
-###
-
-<h3 align="left">Ferramentas</h3>
-
-###
-
-<p align="left">Eclipse, Postman, VisualCode, Selenium, JUnit, Cucumber, Restassured, Git, Jira</p>
-
-###
-
-<h3 align="left">Linguagens de Programação</h3>
+<h2 align="left">Linguagens de Programação</h2>
 
 ###
 
@@ -41,23 +27,7 @@ Alinhando os conhecimentos adquiridos da área de tecnologia à bagagem prévia 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
-
-<h3 align="left">Vamos conversar?</h3>
-
-###
-
-<div align="left">
-  <a href=" https://www.linkedin.com/in/tamiris-munhoz-vieira-b82710149" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h6 align="left">Read this page in English: https://github.com/tamirismv/tamirismv-README-eng/blob/main/README.md</h6>
 
 ###
